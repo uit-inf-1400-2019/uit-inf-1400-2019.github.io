@@ -10,6 +10,7 @@ Praktisk informasjon
 * [Semesterplan](semesterplan.md)
 * [Readings](readings.md) - pensum, anbefalt litteratur og linker til nyttige ressurser.
 * **IKKE AKTIV: [Mailing list](https://list.uit.no/sympa/info/inf-1400-s17) - informasjon og arkiv for mailinglisten til kurset.**
+* [Kurs-slack](https://uit-inf-1400-2019.slack.com)
 * [GitHub repo for kurset](https://github.com/uit-inf-1400-2019/uit-inf-1400-2019.github.io) 
 * [Direktelink til kurset i Canvas](https://uit.instructure.com/courses/11589)
 
