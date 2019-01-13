@@ -23,18 +23,20 @@ Tutorials
 |     | On 23.01 | Pygame tutorial |                |
 
 
-NB: det er ikke forelesning på dager uten oppført tema, men det kan bli endringer slik at vi fyller dagene etter hvert. 
+NB: det er ikke (foreløpig) planlagt forelesning på dager uten oppført
+tema, men det kan bli endringer slik at vi fyller dagene etter
+hvert. Sjekk listen før forelesningsdagene!
 
 | U#  | Dato     | Tema                                    | Notater, pensum ++                                         |
 | --- | ----     | -----                                   | --------------                                             |
 | 3   | Ti 15.01 | Introduksjon                            | introduksjon                                               |
-|     |          | Python Introduction                     | OOP 1                                                      |
+|     |          | Python and OO Introduction              | OOP 1                                                      |
 |     | Fr 18.01 | OO Concepts and Introduction to PyGame  | OOP 2                                                      |
 | 4   | Ti 22.01 | *O1 ut*                                 |                                                            |
-|     | Fr 25.01 | OO Concepts continued                   | OOP 3  (04-oo-concepts-handouts)                           |
+|     | Fr 25.01 | OO Concepts continued                   | OOP 3                                                      |
 | 5   | Ti 29.01 | Summary and practical examples          | OOP 3                                                      |
 |     | Fr 01.02 | Programmer's toolchest                  |                                                            |
-| 6   | Ti 05.02 | *No lecture/moved to Friday*            |                                                            |
+| 6   | Ti 05.02 |                                         |                                                            |
 |     | Fr 08.02 | Exceptions                              | OOP 4                                                      |
 | 7   | Ti 12.02 | When to use Object-Oriented Programming | OOP 5                                                      |
 |     | Fr 15.02 |                                         |                                                            |
