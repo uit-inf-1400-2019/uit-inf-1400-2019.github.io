@@ -17,6 +17,7 @@ Presentasjon og utlevering av obliger skjer på tirsdager i auditoriet.
 Vi bruker forelesningstidspunktet siden grupperommene er for små. 
 
 Tutorials
+
 | U#  | Dato     | Tema            | Notater        |
 | --- | ----     | -----           | -------------- |
 |     | On 16.01 | Python tutorial |                |
