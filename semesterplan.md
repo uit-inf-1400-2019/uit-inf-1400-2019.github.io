@@ -17,12 +17,16 @@ Presentasjon og utlevering av obliger skjer på tirsdager i auditoriet.
 Vi bruker forelesningstidspunktet siden grupperommene er for små. 
 
 Tutorials
+------
 
 | U#  | Dato     | Tema            | Notater        |
 | --- | ----     | -----           | -------------- |
 |     | On 16.01 | Python tutorial |                |
 |     | On 23.01 | Pygame tutorial |                |
 
+
+Forelesninger
+-----------
 
 NB: det er ikke (foreløpig) planlagt forelesning på dager uten oppført
 tema, men det kan bli endringer slik at vi fyller dagene etter
