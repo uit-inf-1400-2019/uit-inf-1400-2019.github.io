@@ -18,6 +18,7 @@ Praktisk informasjon
 
 Opptak av forelesningene kan dere nå via Mediasite. Linker til forelesningene ligger i [lectures/README.md](lectures/README.md).
 
+Det blir strømmet koding på [twitch](https://twitch.tv/edvardpedersen) hver tirsdag kl. 19. Dette er ikke pensum, men vi prøver å følge progresjonen i kurset noenlunde.
 
 ### Forelesninger
 - John Markus Bjørndalen
