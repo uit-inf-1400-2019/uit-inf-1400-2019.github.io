@@ -15,8 +15,10 @@ Følgende opptak er klare, men dere må være innlogget med UiT-konto på medias
 
 - [2019-01-15](https://mediasite.uit.no/Mediasite/Play/7161ea21bfd943709aafcaf2f79c80071d?catalog=e53167ae6d13461684b3ca9b8dd1a81521)
 - [2019-01-18](https://mediasite.uit.no/Mediasite/Play/f62cbb2e537c475cafde67dc2b1cd4d51d?catalog=e53167ae6d13461684b3ca9b8dd1a81521)
+- [2019-01-22](https://mediasite.uit.no/Mediasite/Play/6c55823ed3fd4935b0684dc278b5334b1d?catalog=e53167ae6d13461684b3ca9b8dd1a81521)
+
 
 Opptak av oblig-utleveringer: 
 
-- kommer senere. 
+- [2019-01-25 - oblig 1](https://mediasite.uit.no/Mediasite/Play/987ae07c99634ff29a74caaf09fcbcac1d?catalog=e53167ae6d13461684b3ca9b8dd1a81521)
 
