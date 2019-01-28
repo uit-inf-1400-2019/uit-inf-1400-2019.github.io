@@ -158,27 +158,27 @@ def example_code():
 
         draw_vec_from_ball(circle_a_speed, (255, 255, 0))
 
-        impulse = intersect_rectangle_circle(rectangle_a_position,
+        impact, impulse = intersect_rectangle_circle(rectangle_a_position,
                                              rectangle_a_size_x,
                                              rectangle_a_size_y,
                                              circle_a_position,
                                              circle_a_radius,
                                              circle_a_speed)
-        if impulse:
+        if impact:
             draw_vec_from_ball(impulse, (0, 255, 255))
 
-        impulse = intersect_rectangle_circle(rectangle_b_position,
+        impact, impulse = intersect_rectangle_circle(rectangle_b_position,
                                              rectangle_b_size_x,
                                              rectangle_b_size_y,
                                              circle_a_position,
                                              circle_a_radius,
                                              circle_a_speed)
-        if impulse:
+        if impact:
             draw_vec_from_ball(impulse, (0, 255, 255))
 
-        impulse = intersect_circles(circle_a_position, circle_a_radius,
+        impact, impulse = intersect_circles(circle_a_position, circle_a_radius,
                                     circle_b_position, circle_b_radius)
-        if impulse:
+        if impact:
             draw_vec_from_ball(impulse, (0, 255, 255))
 
         pygame.display.update()
