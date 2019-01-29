@@ -32,16 +32,16 @@ NB: det er ikke (foreløpig) planlagt forelesning på dager uten oppført
 tema, men det kan bli endringer slik at vi fyller dagene etter
 hvert. Sjekk listen før forelesningsdagene!
 
-| U#  | Dato     | Tema                                    | Notater, pensum ++                                         |
+| U#  | Dato     | Tema                                    | Pensum, forelesningsnotater, ++                            |
 | --- | ----     | -----                                   | --------------                                             |
-| 3   | Ti 15.01 | Introduksjon                            | introduksjon                                               |
-|     |          | Python and OO Introduction              | OOP 1                                                      |
-|     | Fr 18.01 | OO Concepts and Introduction to PyGame  | OOP 2                                                      |
-| 4   | Ti 22.01 | OO Concepts continued                   | OOP 3                                                      |
+| 3   | Ti 15.01 | Introduksjon                            | [notater fra introduksjon](lectures/introduksjon)          |
+|     |          | Python and OO Introduction              | OOP 1 - [notater](lectures/oop-01-python-intro-and-oo)     |
+|     | Fr 18.01 | OO Concepts and Introduction to PyGame  | OOP 2 - [notater](lectures/oop-02-oo-and-pygame)           |
+| 4   | Ti 22.01 | OO Concepts continued                   | OOP 3 - [notater](lectures/oop-02-03-oo-concepts)          |
 |     | Fr 25.01 | *O1 ut*                                 |                                                            |
-| 5   | Ti 29.01 | Summary and practical examples          | OOP 3                                                      |
-|     | Fr 01.02 | Programmer's toolchest                  |                                                            |
-| 6   | Ti 05.02 |                                         |                                                            |
+| 5   | Ti 29.01 | Summary and practical examples          | OOP 3 - [notater](lectures/oop-03-summary-and-examples)    |
+|     | Fr 01.02 |                                         |                                                            |
+| 6   | Ti 05.02 | Programmer's toolchest                  |                                                            |
 |     | Fr 08.02 | Exceptions                              | OOP 4                                                      |
 | 7   | Ti 12.02 | When to use Object-Oriented Programming | OOP 5                                                      |
 |     | Fr 15.02 |                                         |                                                            |
