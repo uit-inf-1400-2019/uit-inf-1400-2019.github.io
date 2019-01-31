@@ -1,7 +1,7 @@
 Summary and examples
 ====================
 
-Lecture 2017-01-31
+Lecture 2019-01-29
 @ John Markus Bjørndalen
 
 Today's lecture topics
