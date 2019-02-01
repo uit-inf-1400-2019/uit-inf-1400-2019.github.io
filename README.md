@@ -26,7 +26,7 @@ Det blir strømmet koding på [twitch](https://twitch.tv/edvardpedersen) hver ti
 
 ### Gruppelærere
 - Steinar Brenna Hansen
-- Joakim Aalstad Alslie
+- Joakim Aalstad Alslie (A134, [jal029@post.uit.no](mailto:jal029@post.uit.no))
 - Silje Christiansen
 - Markus Bergum Hilbertsen
 - Raymon Hansen (A036, [raymon.s.hansen@uit.no](mailto:raymon.s.hansen@uit.no))
