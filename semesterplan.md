@@ -41,10 +41,10 @@ hvert. Sjekk listen før forelesningsdagene!
 |     | Fr 25.01 | *O1 ut*                                 |                                                            |
 | 5   | Ti 29.01 | Summary and practical examples          | OOP 3 - [notater](lectures/oop-03-summary-and-examples)    |
 |     | Fr 01.02 |                                         |                                                            |
-| 6   | Ti 05.02 | Programmer's toolchest                  |                                                            |
-|     | Fr 08.02 | Exceptions                              | OOP 4                                                      |
-| 7   | Ti 12.02 | When to use Object-Oriented Programming | OOP 5                                                      |
-|     | Fr 15.02 |                                         |                                                            |
+| 6   | Ti 05.02 | Programmer's toolchest                  | [notater](lectures/lecture-tools)                          |
+|     | Fr 08.02 |                                         |                                                            |
+| 7   | Ti 12.02 | Exceptions                              | OOP 4                                                      |
+|     | Fr 15.02 | When to use Object-Oriented Programming | OOP 5                                                      |
 | 8   | Ti 19.02 |                                         |                                                            |
 |     | Fr 22.02 | *O1 inn, O2 ut*                         |                                                            |
 | 9   | Ti 26.02 | Python Data Structures                  | OOP 6                                                      |
