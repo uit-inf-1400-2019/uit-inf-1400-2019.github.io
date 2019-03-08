@@ -18,12 +18,12 @@ The main idea here is to get a rough idea about how a function call
 works so we can see why we can call things recursively.
 
 A function call is usually built up using very simple mechanisms. At
-the lowest levels, there isn't anything called a function
-call. Instead, it's usually implemented using a simple "jump over
-there and continue execution from there", and then using the same
-"jump" instruction to jump back to the caller when we return from the
-called function. The jump is similar to what we do with
-if-statements.
+the lowest levels, there isn't anything called a function call (we're
+assuming a simple system here). Instead, it's usually implemented
+using a simple "jump over there and continue execution from there",
+and then using the same "jump" instruction to jump back to the caller
+when we return from the called function. The jump is similar to what
+we do with if-statements.
 
 To implement the abstraction of a function call, we need the following
 (all of this is handled by the compiler or runtime of the language):
