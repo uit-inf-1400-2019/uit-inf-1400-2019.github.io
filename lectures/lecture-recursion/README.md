@@ -191,7 +191,7 @@ each list.
 
 Other demonstraction code (see the code subdirectory): 
 --------------------------------------------
-- Simple graph: [1,2,[3,[4,5],[6,[7]]]]
+- Simple graph: [1,2,[3,[4,5],[6,[7]],8],9]
 - Use decorators to decorate recursive function. 
 - Fibonacci
 
