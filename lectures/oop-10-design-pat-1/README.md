@@ -1,4 +1,4 @@
-Ch 8 -- Python Design Patterns I
+Ch 10 -- Python Design Patterns I
 =================================
 
 Classical reference to design patterns is the "Gang of Four" book by Gamma, Helm, Johnson and Vlissides (reference to the book in the Wikipedia article : [http://en.wikipedia.org/wiki/Design_Patterns](http://en.wikipedia.org/wiki/Design_Patterns))
