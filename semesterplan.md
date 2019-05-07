@@ -32,45 +32,45 @@ NB: det er ikke (foreløpig) planlagt forelesning på dager uten oppført
 tema, men det kan bli endringer slik at vi fyller dagene etter
 hvert. Sjekk listen før forelesningsdagene!
 
-| U#  | Dato     | Tema                                       | Pensum, forelesningsnotater, ++                                       |
-| --- | ----     | -----                                      | --------------                                                        |
-| 3   | Ti 15.01 | Introduksjon                               | [notater fra introduksjon](lectures/introduksjon)                     |
-|     |          | Python and OO Introduction                 | OOP 1 - [notater](lectures/oop-01-python-intro-and-oo)                |
-|     | Fr 18.01 | OO Concepts and Introduction to PyGame     | OOP 2 - [notater](lectures/oop-02-oo-and-pygame)                      |
-| 4   | Ti 22.01 | OO Concepts continued                      | OOP 3 - [notater](lectures/oop-02-03-oo-concepts)                     |
-|     | Fr 25.01 | *O1 ut*                                    |                                                                       |
-| 5   | Ti 29.01 | Summary and practical examples             | OOP 3 - [notater](lectures/oop-03-summary-and-examples)               |
-|     | Fr 01.02 |                                            |                                                                       |
-| 6   | Ti 05.02 | Programmer's toolchest                     | [notater](lectures/lecture-tools)                                     |
-|     | Fr 08.02 |                                            |                                                                       |
-| 7   | Ti 12.02 | Exceptions                                 | OOP 4                                                                 |
-|     | Fr 15.02 | When to use Object-Oriented Programming    | OOP 5                                                                 |
-| 8   | Ti 19.02 |                                            |                                                                       |
-|     | Fr 22.02 | *O1 inn, O2 ut*                            |                                                                       |
-| 9   | Ti 26.02 | Python Data Structures                     | OOP 6                                                                 |
-|     | Fr 01.03 | Python Patterns, Strings                   | OOP 7, 8                                                              |
-| 10  | Ti 05.03 | Iterator Pattern                           | OOP 9                                                                 |
-|     | Fr 08.03 | Extra lecture on recursion                 |                                                                       |
-| 11  | Ti 12.03 | Python Design Patterns I                   | OOP 10                                                                |
-|     | Fr 15.03 | *O2 inn, O3 ut*                            |                                                                       |
-| 12  | Ti 19.03 | Python Design Patterns II                  | OOP 11                                                                |
-|     | Fr 22.03 | Testing Object-Oriented Programs           | OOP 12                                                                |
-| 13  | Ti 26.03 | Event-driven programming                   |                                                                       |
-|     | Fr 29.03 |                                            |                                                                       |
-| 14  | Ti 02.04 |                                            |                                                                       |
-|     | Fr 05.04 | *O3 inn* (kan bli flyttet)                 |                                                                       |
-| 15  | Ti 09.04 |                                            |                                                                       |
-|     | Fr 12.04 |                                            |                                                                       |
-| 16  | Påske    | *Påske - ingen forelesning*                |                                                                       |
-| 17  | Ti 23.04 |                                            |                                                                       |
-|     | Fr 26.04 | *NB: forelesning flyttet til neste fredag* |                                                                       |
-| 18  | Ti 30.04 | Context managers, stop writing classes.    | (See notes - coming later)                                            |
-|     | Fr 03.05 | Class-based vs. classless OOP              | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages) |
-| 19  | Ti 07.05 | Summary, exam prep                         |                                                                       |
-|     | Fr 10.05 |                                            |                                                                       |
-| 20  | Ti 14.05 |                                            |                                                                       |
-|     | Fr 17.05 | *17. mai*                                  |                                                                       |
-| 20  | Ti 21.05 | Eksamen                                    | NB: denne *kan* bli flyttet uten at det blir oppdatert her            |
+| U#  | Dato     | Tema                                       | Pensum, forelesningsnotater, ++                                                            |
+| --- | ----     | -----                                      | --------------                                                                             |
+| 3   | Ti 15.01 | Introduksjon                               | [notater fra introduksjon](lectures/introduksjon)                                          |
+|     |          | Python and OO Introduction                 | OOP 1 - [notater](lectures/oop-01-python-intro-and-oo)                                     |
+|     | Fr 18.01 | OO Concepts and Introduction to PyGame     | OOP 2 - [notater](lectures/oop-02-oo-and-pygame)                                           |
+| 4   | Ti 22.01 | OO Concepts continued                      | OOP 3 - [notater](lectures/oop-02-03-oo-concepts)                                          |
+|     | Fr 25.01 | *O1 ut*                                    |                                                                                            |
+| 5   | Ti 29.01 | Summary and practical examples             | OOP 3 - [notater](lectures/oop-03-summary-and-examples)                                    |
+|     | Fr 01.02 |                                            |                                                                                            |
+| 6   | Ti 05.02 | Programmer's toolchest                     | [notater](lectures/lecture-tools)                                                          |
+|     | Fr 08.02 |                                            |                                                                                            |
+| 7   | Ti 12.02 | Exceptions                                 | [OOP 4](lectures/oop-04-exceptions)                                                        |
+|     | Fr 15.02 | When to use Object-Oriented Programming    | [OOP 5](lectures/oop-05-when-to-use-oop)                                                   |
+| 8   | Ti 19.02 |                                            |                                                                                            |
+|     | Fr 22.02 | *O1 inn, O2 ut*                            |                                                                                            |
+| 9   | Ti 26.02 | Python Data Structures                     | [OOP 6](lectures/oop-06-python-data-structures)                                            |
+|     | Fr 01.03 | Python Patterns, Strings                   | [OOP 7](lectures/oop-07-oop-shortcuts), [OOP 8](lectures/oop-08-strings-and-serialization) |
+| 10  | Ti 05.03 | Iterator Pattern                           | [OOP 9](lectures/oop-09-iterators)                                                         |
+|     | Fr 08.03 | Extra lecture on recursion                 |                                                                                            |
+| 11  | Ti 12.03 | Python Design Patterns I                   | [OOP 10](lectures/oop-10-design-pat-1)                                                     |
+|     | Fr 15.03 | *O2 inn, O3 ut*                            |                                                                                            |
+| 12  | Ti 19.03 | Python Design Patterns II                  | [OOP 11](lectures/oop-11-design-pat-2)                                                     |
+|     | Fr 22.03 | Testing Object-Oriented Programs           | [OOP 12](lectures/oop-12-testing)                                                          |
+| 13  | Ti 26.03 | Event-driven programming                   | [notes](lectures/lecture-event-driven-programming)                                         |
+|     | Fr 29.03 |                                            |                                                                                            |
+| 14  | Ti 02.04 |                                            |                                                                                            |
+|     | Fr 05.04 | *O3 inn* (kan bli flyttet)                 |                                                                                            |
+| 15  | Ti 09.04 |                                            |                                                                                            |
+|     | Fr 12.04 |                                            |                                                                                            |
+| 16  | Påske    | *Påske - ingen forelesning*                |                                                                                            |
+| 17  | Ti 23.04 |                                            |                                                                                            |
+|     | Fr 26.04 | *NB: forelesning flyttet til neste fredag* |                                                                                            |
+| 18  | Ti 30.04 | Context managers, stop writing classes.    | [notes](lectures/lecture-context-mgr-stop-writing-cl)                                      |
+|     | Fr 03.05 | Class-based vs. classless OOP              | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      |
+| 19  | Ti 07.05 | Summary, exam prep                         |                                                                                            |
+|     | Fr 10.05 |                                            |                                                                                            |
+| 20  | Ti 14.05 |                                            |                                                                                            |
+|     | Fr 17.05 | *17. mai*                                  |                                                                                            |
+| 20  | Ti 21.05 | Eksamen                                    | NB: denne *kan* bli flyttet uten at det blir oppdatert her                                 |
 
 
 Forelesningsrom (vanligvis):
