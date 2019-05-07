@@ -36,4 +36,6 @@ Some useful links and resources
 * [Some Python 2 - 3 differences](http://python3porting.com/differences.html)
 * [pygame.org](http://pygame.org/news.html)
 
-
+Previous exams
+--------------------
+[Previous exams](previous-exams)
